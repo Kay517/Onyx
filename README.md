@@ -1,16 +1,16 @@
-# 🤖 Knight Bot
+# 🤖 Onyx Bot
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Onyx-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://github.com/mruniquehacker/Onyxbot-MD/blob/main/assets/bot_image.jpg" alt="Onyx Bot" height="300"> 
   </a> 
 </div>
 
@@ -20,10 +20,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Onyx Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/mruniquehacker/Onyxbot-MD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -63,13 +63,13 @@ For further customization and setup guidance, click the button below:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mruniquehacker/KnightBot-MD)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mruniquehacker/OnyxBot-MD)
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mruniquehacker/KnightBot-MD)
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mruniquehacker/OnyxBot-MD)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mruniquehacker/KnightBot-MD&branch=main&name=knightbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mruniquehacker/OnyxBot-MD&branch=main&name=onyxbot)
 
-[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fknightbot%3Fduplicate%3Dtrue)
+[![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fonyxbot%3Fduplicate%3Dtrue)
 
 ### Additional Hosting Panels
 
@@ -154,9 +154,9 @@ For further customization and setup guidance, click the button below:
 
 ---
 
-## 📖 About
+## 📚 About
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+The Onyx WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -174,8 +174,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
+    git clone https://github.com/mruniquehacker/Onyxbot-MD.git
+    cd Onyxbot-MD
     ```
 
 2. **Install the dependencies:**
@@ -199,20 +199,19 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Onyxbot-MD/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Onyxbot-MD/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
-
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Onyxbot)!
 
 ## Credits
 
@@ -225,7 +224,7 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 ## ⚠️ Important Warning
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ## 📝 Legal
 
@@ -242,7 +241,7 @@ This project is licensed under the MIT License. However, you must:
 - Credit original authors
 - Not use for spam or malicious purposes
 
-## 📜 Copyright Notice
+## 📝 Copyright Notice
 
 Copyright (c) 2024 Professor. All rights reserved.
 
