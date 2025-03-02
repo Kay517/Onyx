@@ -1,7 +1,7 @@
 async function githubCommand(sock, chatId) {
-    const repoInfo = `*🤖 OnyxBot MD*\n
-*📂 GitHub Repository:*\nhttps://github.com/mruniquehacker/Onyxbot-MD\n
-*📢 Official Channel:*\nhttps://youtube.com/@mr_unique_hacker\n
+    const repoInfo = `*🤖 Onyx Bot MD*\n
+*📂 GitHub Repository:*\nhttps://github.com/Kay517/Onyx\n
+*💬 Official Group:*\n${process.env.GROUP_LINK}\n
 _Star ⭐ the repository if you like the bot!_`;
 
     try {
@@ -12,7 +12,7 @@ _Star ⭐ the repository if you like the bot!_`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'OnyxBot MD',
+                    newsletterName: 'Onyx MD',
                     serverMessageId: -1
                 }
             }
@@ -25,4 +25,4 @@ _Star ⭐ the repository if you like the bot!_`;
     }
 }
 
-module.exports = githubCommand; 
+module.exports = githubCommand;
