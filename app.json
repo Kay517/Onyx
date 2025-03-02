@@ -1,14 +1,14 @@
 {
-    "name": "KnightBot-MD",
+    "name": "Onyx-MD",
     "description": "Advanced WhatsApp Bot with Multiple Features",
     "keywords": [
         "bot",
         "whatsapp",
         "whatsapp-bot",
-        "knightbot",
+        "onyx",
         "multi-device"
     ],
-    "repository": "https://github.com/mruniquehacker/Knightbot-MD",
+    "repository": "https://github.com/Kay517/Onyx",
     "stack": "container",
     "env": {
         "SESSION_ID": {
