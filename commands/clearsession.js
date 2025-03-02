@@ -3,25 +3,12 @@ const path = require('path');
 const os = require('os');
 const isOwner = require('../helpers/isOwner');
 
-const channelInfo = {
-    contextInfo: {
-        forwardingScore: 999,
-        isForwarded: true,
-        forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
-            serverMessageId: -1
-        }
-    }
-};
-
 async function clearSessionCommand(sock, chatId, senderId) {
     try {
         // Check if sender is owner
         if (!isOwner(senderId)) {
             await sock.sendMessage(chatId, { 
-                text: '❌ This command can only be used by the owner!',
-                ...channelInfo
+                text: '❌ This command can only be used by the owner!'
             });
             return;
         }
@@ -31,8 +18,7 @@ async function clearSessionCommand(sock, chatId, senderId) {
 
         if (!fs.existsSync(sessionDir)) {
             await sock.sendMessage(chatId, { 
-                text: '❌ Session directory not found!',
-                ...channelInfo
+                text: '❌ Session directory not found!'
             });
             return;
         }
@@ -43,8 +29,7 @@ async function clearSessionCommand(sock, chatId, senderId) {
 
         // Send initial status
         await sock.sendMessage(chatId, { 
-            text: `🔍 Optimizing session files for better performance...`,
-            ...channelInfo
+            text: `🔍 Optimizing session files for better performance...`
         });
 
         const files = fs.readdirSync(sessionDir);
@@ -112,22 +97,22 @@ async function clearSessionCommand(sock, chatId, senderId) {
                           `⚡ Bot performance improved!\n\n` +
                           `*Note:* Bot will maintain faster response times now.`;
 
+        await sock.sendMessage(chatId, { 
+            text: resultMessage
+        });
+
         if (errors > 0) {
-            resultMessage += `\n\n⚠️ Skipped ${errors} file(s) for safety.`;
+            let errorMessage = `Some errors occurred during optimization:\n\n` +
+                               `${errorDetails.join('\n')}`;
+            await sock.sendMessage(chatId, { 
+                text: errorMessage
+            });
         }
 
-        await sock.sendMessage(chatId, { 
-            text: resultMessage,
-            ...channelInfo
-        });
-
     } catch (error) {
-        console.error('Error in clearsession command:', error);
-        await sock.sendMessage(chatId, { 
-            text: '❌ Error occurred while optimizing sessions!\n' + error.message,
-            ...channelInfo
-        });
+        console.error('Error in clear session command:', error);
+        await sock.sendMessage(chatId, { text: '❌ Error processing command' });
     }
 }
 
-module.exports = clearSessionCommand; 
+module.exports = clearSessionCommand;
