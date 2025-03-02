@@ -16,7 +16,7 @@
             "required": false
         },
         "OWNER_NUMBER": {
-            "description": "Your WhatsApp number (e.g., 911234567890)",
+            "description": "Your WhatsApp number (e.g., 2250787400838)",
             "required": false
         },
         "PREFIX": {
