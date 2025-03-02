@@ -2,7 +2,7 @@ const settings = {
   packname: 'Onyx',
   author: 'Bot',
   botName: "Onyx Bot",
-  botOwner: 'Professor', // Your name
+  botOwner: 'KAY', // Your name
   ownerNumber: '2250787400838', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
