@@ -75,7 +75,6 @@ const { autoStatusCommand, handleStatusUpdate } = require('./commands/autostatus
 global.packname = settings.packname;
 global.author = settings.author;
 global.groupLink = "https://chat.whatsapp.com/DZarN57cpKNKkodsXIFdf9";
-global.ytch = "Mr Unique Hacker";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
