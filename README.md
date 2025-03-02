@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
+  <a href="https://github.com/Kay517/Onyx">
     <img src="https://github.com/mruniquehacker/Onyxbot-MD/blob/main/assets/bot_image.jpg" alt="Onyx Bot" height="300"> 
   </a> 
 </div>
@@ -23,7 +23,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Onyx Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Onyxbot-MD/fork">
+  <a href="https://github.com/Kay517/Onyx/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -49,9 +49,6 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/dDyiEHF8rIQ">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
-  </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
     <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
@@ -63,11 +60,11 @@ For further customization and setup guidance, click the button below:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mruniquehacker/OnyxBot-MD)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kay517/Onyx)
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mruniquehacker/OnyxBot-MD)
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/Kay517/Onyx)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/mruniquehacker/OnyxBot-MD&branch=main&name=onyxbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Kay517/Onyx&branch=main&name=onyxbot)
 
 [![Deploy to Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue)](https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Fonyxbot%3Fduplicate%3Dtrue)
 
@@ -102,7 +99,7 @@ For further customization and setup guidance, click the button below:
 </a>
 
 <a href="https://netherite.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Netherite_Host-8E44AD?style=for-the-badge&logo=server&logoColor=white" alt="Netherite Host"/>
+  <img src="https://img.shields.io-badge/Netherite_Host-8E44AD?style=for-the-badge&logo=server&logoColor=white" alt="Netherite Host"/>
 </a>
 
 <a href="https://bot-hosting.net/" target="_blank">
@@ -110,11 +107,11 @@ For further customization and setup guidance, click the button below:
 </a>
 
 <a href="https://panel.hardy.host/auth/login" target="_blank">
-  <img src="https://img.shields.io/badge/Hardy_Host-F1C40F?style=for-the-badge&logo=server&logoColor=black" alt="Hardy Host"/>
+  <img src="https://img.shields.io-badge/Hardy_Host-F1C40F?style=for-the-badge&logo=server&logoColor=black" alt="Hardy Host"/>
 </a>
 
 <a href="https://dashboard.katabump.com/auth/login" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+  <img src="https://img.shields.io-badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
 
 <a href="https://daki.cc" target="_blank">
@@ -122,7 +119,7 @@ For further customization and setup guidance, click the button below:
 </a>
 
 <a href="https://pella.app" target="_blank">
-  <img src="https://img.shields.io/badge/Pella_App-16A085?style=for-the-badge&logo=server&logoColor=white" alt="Pella App"/>
+  <img src="https://img.shields.io-badge/Pella_App-16A085?style=for-the-badge&logo=server&logoColor=white" alt="Pella App"/>
 </a>
 
 
@@ -133,10 +130,10 @@ For further customization and setup guidance, click the button below:
 
 <div align="center">
   <a href="https://t.me/+3QhFUZHx-nhhZmY1">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
+    <img src="https://img.shields.io-badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+    <img src="https://img.shields.io-badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
 
@@ -174,8 +171,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Onyxbot-MD.git
-    cd Onyxbot-MD
+    git clone https://github.com/Kay517/Onyx.git
+    cd Onyx
     ```
 
 2. **Install the dependencies:**
@@ -199,19 +196,19 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Onyxbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/Kay517/Onyx/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Onyxbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Kay517/Onyx/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Onyxbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/Kay517/Onyx)!
 
 ## Credits
 
